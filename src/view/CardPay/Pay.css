@@ -1,0 +1,124 @@
+.container {
+  margin-top: 10%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.formDiv {
+  width: 400px;
+  padding: 20px 30px 10px 30px;
+  border-radius: 10px;
+  padding-top: 0px;
+}
+
+.alert {
+  text-align: center;
+  /*   margin-top: 20px; */
+  color: crimson;
+}
+
+.creditCard {
+  margin-bottom: 10%;
+}
+
+.form-group {
+  margin-bottom: 0.5rem;
+}
+
+
+.description {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-top: 3px solid rgb(52, 0, 240);
+  padding-top: 5px;
+}
+
+.description a {
+  color: #4a4b4c;
+  text-decoration: underline rgb(52, 0, 240) 1px;
+  background-color: transparent;
+
+}
+
+ul {
+  list-style-type: disclosure-closed;
+  color: black;
+}
+
+h6 {
+  font-size: 18px;
+
+  margin-top: 4%;
+}
+
+#validateButton {
+  background-color: rgb(19 160 7);
+}
+
+label {
+  color: rgb(52, 0, 240);
+  font-weight: bolder;
+  margin-bottom: 0px;
+
+}
+
+a {
+  color: #007bff;
+  /* text-decoration: 5px; */
+  background-color: transparent;
+  border-bottom: #007bff 1px;
+}
+
+.AppHeader {
+  background-color: #4a4fca;
+  ;
+  height: 4rem;
+  color: #ffffff;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.AppHeader button {
+  background: transparent;
+  border: transparent;
+  margin-left: 15px;
+}
+
+.AppHeader a h4 {
+  color: #ffffff;
+  font-size: large;
+  margin-top: 9px;
+
+}
+
+
+/* ocultar y mostrar parrafo */
+
+/*CLase que aplica los estilos al elemento a aparecer*/
+.show-element {
+  /*duracion de la animacion, puedes variar el tiempo, entre mas grande mas tarda el efecto*/
+  animation-duration: 2s;
+  animation-fill-mode: both;
+  /*le indicas que animacion quieres aplicarle, animacion hecha por ti en un keyframe*/
+  animation-name: fadeIn;
+  background-color: rgb(225, 225, 255);
+}
+
+.hide-element {
+  animation-duration: 2s;
+  animation-fill-mode: both;
+  animation-name: fadeOut;
+}
+
+.show-element a {
+  text-align: center;
+  color: #4a4b4c;
+  display: block;
+}

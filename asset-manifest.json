@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rosafv03/Desafio-EC/static/css/main.a291bbbb.chunk.css",
+    "main.js": "/rosafv03/Desafio-EC/static/js/main.3f36b1f7.chunk.js",
+    "main.js.map": "/rosafv03/Desafio-EC/static/js/main.3f36b1f7.chunk.js.map",
+    "runtime-main.js": "/rosafv03/Desafio-EC/static/js/runtime-main.496307cb.js",
+    "runtime-main.js.map": "/rosafv03/Desafio-EC/static/js/runtime-main.496307cb.js.map",
+    "static/css/2.77f9ec3a.chunk.css": "/rosafv03/Desafio-EC/static/css/2.77f9ec3a.chunk.css",
+    "static/js/2.8428dff3.chunk.js": "/rosafv03/Desafio-EC/static/js/2.8428dff3.chunk.js",
+    "static/js/2.8428dff3.chunk.js.map": "/rosafv03/Desafio-EC/static/js/2.8428dff3.chunk.js.map",
+    "index.html": "/rosafv03/Desafio-EC/index.html",
+    "static/css/2.77f9ec3a.chunk.css.map": "/rosafv03/Desafio-EC/static/css/2.77f9ec3a.chunk.css.map",
+    "static/css/main.a291bbbb.chunk.css.map": "/rosafv03/Desafio-EC/static/css/main.a291bbbb.chunk.css.map",
+    "static/js/2.8428dff3.chunk.js.LICENSE.txt": "/rosafv03/Desafio-EC/static/js/2.8428dff3.chunk.js.LICENSE.txt",
+    "static/media/flecha.ab8a8edf.png": "/rosafv03/Desafio-EC/static/media/flecha.ab8a8edf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.496307cb.js",
+    "static/css/2.77f9ec3a.chunk.css",
+    "static/js/2.8428dff3.chunk.js",
+    "static/css/main.a291bbbb.chunk.css",
+    "static/js/main.3f36b1f7.chunk.js"
+  ]
+}
